@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eduardo/static/css/main.af6a8436.css",
-    "main.js": "/eduardo/static/js/main.10bd381d.js",
+    "main.js": "/eduardo/static/js/main.e770c1eb.js",
     "static/media/Gaming.jpg": "/eduardo/static/media/Gaming.7b21d16eae51969b2f99.jpg",
     "static/media/certificado-udemy.jpg": "/eduardo/static/media/certificado-udemy.3cd1c9e2035d900ecb86.jpg",
     "static/media/Space.jpg": "/eduardo/static/media/Space.0da5d7ffc34b981c3a4b.jpg",
@@ -25,10 +25,10 @@
     "static/media/pinLocation.svg": "/eduardo/static/media/pinLocation.9a051b2975a682806876c4a996375901.svg",
     "static/media/home.svg": "/eduardo/static/media/home.f96e35eb154fbab4e5d8bf0d4f92c3c1.svg",
     "main.af6a8436.css.map": "/eduardo/static/css/main.af6a8436.css.map",
-    "main.10bd381d.js.map": "/eduardo/static/js/main.10bd381d.js.map"
+    "main.e770c1eb.js.map": "/eduardo/static/js/main.e770c1eb.js.map"
   },
   "entrypoints": [
     "static/css/main.af6a8436.css",
-    "static/js/main.10bd381d.js"
+    "static/js/main.e770c1eb.js"
   ]
 }
