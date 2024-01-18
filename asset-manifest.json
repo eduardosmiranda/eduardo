@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/eduardo/static/css/main.af6a8436.css",
+    "main.js": "/eduardo/static/js/main.ecee4f21.js",
+    "static/media/Gaming.jpg": "/eduardo/static/media/Gaming.7b21d16eae51969b2f99.jpg",
+    "static/media/certificado-udemy.jpg": "/eduardo/static/media/certificado-udemy.3cd1c9e2035d900ecb86.jpg",
+    "static/media/Space.jpg": "/eduardo/static/media/Space.0da5d7ffc34b981c3a4b.jpg",
+    "static/media/React.jpg": "/eduardo/static/media/React.65ca18b4e9841f85a691.jpg",
+    "static/media/Physics.jpg": "/eduardo/static/media/Physics.5f52c059877970716ca3.jpg",
+    "static/media/Python.jpg": "/eduardo/static/media/Python.2db3ddae3690be239b2c.jpg",
+    "static/media/Gym.jpg": "/eduardo/static/media/Gym.2dac41342ff7c98209a6.jpg",
+    "static/media/Responsive.jpg": "/eduardo/static/media/Responsive.da40d5f45fb1f5add838.jpg",
+    "static/media/Git.jpg": "/eduardo/static/media/Git.7e19ced30f7817541e65.jpg",
+    "static/media/Bootstrap.jpg": "/eduardo/static/media/Bootstrap.3fa946b621297cd902db.jpg",
+    "static/media/PostgreSQL.jpg": "/eduardo/static/media/PostgreSQL.1840ed8db24169a95af0.jpg",
+    "static/media/HTML.jpg": "/eduardo/static/media/HTML.ad2f8c706c77bbb800be.jpg",
+    "static/media/WebDevelopment.jpg": "/eduardo/static/media/WebDevelopment.ed886de34b593bb22271.jpg",
+    "static/media/JavaScript.jpg": "/eduardo/static/media/JavaScript.854d47751eb61d44ef81.jpg",
+    "static/media/portugal-flag-circular-17871.svg": "/eduardo/static/media/portugal-flag-circular-17871.7588c3923925953c5b61629786e97bac.svg",
+    "static/media/1698160382462.jpg": "/eduardo/static/media/1698160382462.ece68f6dcce67b14d357.jpg",
+    "static/media/Node.jpg": "/eduardo/static/media/Node.4e97577b981eca678bfe.jpg",
+    "static/media/jQuery.jpg": "/eduardo/static/media/jQuery.4e57e42ed36ca1fe4999.jpg",
+    "static/media/CSS.jpg": "/eduardo/static/media/CSS.87f5b197963ce41cf34e.jpg",
+    "index.html": "/eduardo/index.html",
+    "static/media/pinLocation.svg": "/eduardo/static/media/pinLocation.9a051b2975a682806876c4a996375901.svg",
+    "static/media/home.svg": "/eduardo/static/media/home.f96e35eb154fbab4e5d8bf0d4f92c3c1.svg",
+    "main.af6a8436.css.map": "/eduardo/static/css/main.af6a8436.css.map",
+    "main.ecee4f21.js.map": "/eduardo/static/js/main.ecee4f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af6a8436.css",
+    "static/js/main.ecee4f21.js"
+  ]
+}
